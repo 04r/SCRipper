@@ -75,7 +75,7 @@ Please respect SoundCloud’s **Terms of Service** , only download tracks that a
 ---
 
 ## 🧑‍💻 Credits
-- Built by [Your Name]  
+- Built by 04r  
 - Powered by [`scdl`](https://github.com/flyingrub/scdl)  
 - Inspired by SoundCloud’s clean orange aesthetic 🎧
 
